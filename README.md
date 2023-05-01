@@ -1,2 +1,2 @@
 # xxinngg-github.io
-新闻头条系统
+新闻头条系统前端
